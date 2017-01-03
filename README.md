@@ -1,5 +1,26 @@
 # I've joined the #100DaysOfCode Challenge.
 
+I have kept all the forked info just incase someone wants to read it:
+
+I code for a living so this challenge for me is to delve a little deeper, explore areas I usually wouldn't. I have identified the following areas to explore in my 100 day challenge:
+
+1. Clojure
+2. Haskell
+3. Erlang
+4. Elixir
+5. Scala
+6. TypeScript
+7. F#
+8. Python
+9. github pages & Jekyll
+
+10. NServiceBus
+11. EventStore
+12. CQRS
+
+I will update the log daily, so feel free to check that out. I will also be active on #100DaysOfCode feed to dicuss and assist where I can.
+
+## 100-DAYS-OF-CODE
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
