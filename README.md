@@ -4,19 +4,20 @@ I have kept all the forked info just incase someone wants to read it:
 
 I code for a living so this challenge for me is to delve a little deeper, explore areas I usually wouldn't. I have identified the following areas to explore in my 100 day challenge:
 
-1. Clojure
-2. Haskell
-3. Erlang
-4. Elixir
-5. Scala
-6. TypeScript
-7. F#
-8. Python
-9. github pages & Jekyll
+1. [Clojure](https://clojure.org/)
+2. [Haskell](http://learnyouahaskell.com/)
+3. [Erlang](https://www.erlang.org/)
+4. [Elixir](http://elixir-lang.org/)
+5. [Scala](https://www.scala-lang.org/)
+6. [TypeScript](https://www.typescriptlang.org/)
+7. [F#](http://fsharp.org/)
+8. [Python](https://www.python.org/)
+9. [github pages & Jekyll](https://jekyllrb.com/)
 
-10. NServiceBus
-11. EventStore
-12. CQRS
+10. [NServiceBus](https://particular.net/nservicebus)
+11. [EventStore](https://geteventstore.com/)
+12. [CQRS](http://martinfowler.com/bliki/CQRS.html)
+13. [Datomic](http://www.datomic.com/) 
 
 I will update the log daily, so feel free to check that out. I will also be active on #100DaysOfCode feed to dicuss and assist where I can.
 
