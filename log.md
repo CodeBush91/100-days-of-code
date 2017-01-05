@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, Thursday
+
+**Today's Goal** : To continue progress learning Haskell
+
+**Today's Progress**: Some more functions can be found in the learningHaskell.hs file in the Day 3 folder.
+
+**Thoughts**: Continuing to get my head around functional programming, some neat stuff found in contrast to OO
+
+
+**Time Spent**: 1 hrs
+
 ### Day 2: January 4, Wednesday
 
 **Today's Goal** : Put together the Blog using Jeykll and teach the better half markdown (ready for posts!)
