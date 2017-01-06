@@ -12,12 +12,13 @@ I code for a living so this challenge for me is to delve a little deeper, explor
 6. [TypeScript](https://www.typescriptlang.org/)
 7. [F#](http://fsharp.org/)
 8. [Python](https://www.python.org/)
-9. [github pages & Jekyll](https://jekyllrb.com/)
+9. [Immutable-js](https://facebook.github.io/immutable-js/)
+10. [github pages & Jekyll](https://jekyllrb.com/)
 
-10. [NServiceBus](https://particular.net/nservicebus)
-11. [EventStore](https://geteventstore.com/)
-12. [CQRS](http://martinfowler.com/bliki/CQRS.html)
-13. [Datomic](http://www.datomic.com/) 
+11. [NServiceBus](https://particular.net/nservicebus)
+12. [EventStore](https://geteventstore.com/)
+13. [CQRS](http://martinfowler.com/bliki/CQRS.html)
+14. [Datomic](http://www.datomic.com/) 
 
 I will update the log daily, so feel free to check that out. I will also be active on #100DaysOfCode feed to dicuss and assist where I can.
 
