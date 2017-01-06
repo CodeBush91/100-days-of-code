@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, Friday
+
+**Today's Goal** : To go completley off topic and take a look at KOA and Passport.js
+
+**Today's Progress**: Yeah... so a complete twist today and some time investigatin KOA and Passport.js FOR github authentication. Suprisingly simple but thats in KOA v1.... v2 brings the complexity of babel! Take a look at the Day 4 folder.
+
+**Thoughts**: Yeah.... great but i now need to do it using koa 2... should be easy right?
+
+
 ### Day 3: January 5, Thursday
 
 **Today's Goal** : To continue progress learning Haskell

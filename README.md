@@ -18,6 +18,7 @@ I code for a living so this challenge for me is to delve a little deeper, explor
 11. [EventStore](https://geteventstore.com/)
 12. [CQRS](http://martinfowler.com/bliki/CQRS.html)
 13. [Datomic](http://www.datomic.com/) 
+14. KOA & Passport.js
 
 I will update the log daily, so feel free to check that out. I will also be active on #100DaysOfCode feed to dicuss and assist where I can.
 

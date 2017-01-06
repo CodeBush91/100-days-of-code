@@ -1,0 +1,12 @@
+{
+  "name": "koa-github-auth",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Andrew Bush",
+  "dependencies": {
+    "koa": "~0.5.0",
+    "koa-router": "~3.1.0",
+    "koa-passport": "~0.2.0",
+    "passport-github": "~0.1.5"
+  }
+}
