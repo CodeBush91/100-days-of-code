@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, Saturday
+
+**Today's Goal** : Due to other commitments on the weekend I have decided to use it to go through and tidy/amend this weeks work.
+
+**Today's Progress**: Redesigning the Day 1 Jeykll blog, implementing a nice and material design look.
+
+**Thoughts**: Some nice css changes using MDL
+
 ### Day 4: January 6, Friday
 
 **Today's Goal** : To go completley off topic and take a look at KOA and Passport.js
