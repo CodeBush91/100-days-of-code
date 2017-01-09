@@ -52,7 +52,7 @@ In addition to these skills, I also have interest and expanding my knowledge wit
 
 *Key Achievements*
 
-### May 2014 - March 2016 - **The Grosvenor Group**.
+### May 2014 - March 2016 - **The Grosvenor Group Ltd**.
 
 - Senior Software Developer 
 
