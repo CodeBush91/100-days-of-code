@@ -5,7 +5,18 @@ const
   passport = require('./auth'),
 
   koa = require('koa'),
+  serve   = require('koa-static'),
   app = koa();
+app.outputErrors = true
+app.use(serve(__dirname + '/public/css'))
+
+var Pug = require('koa-pug')
+var pug = new Pug({
+  viewPath: './views',
+  basedir: '.views',
+  app: app
+})
+
 
 
 function *reqlogger(next){
@@ -23,7 +34,12 @@ app.get('/', function *(){
   this.body = "This is root page ('/')";
 });
 
+app.get('/hello',getMessage);
 
+function *getMessage()
+{
+  this.render('first_view');
+}
 
 const publicRouter = new Router();
 
