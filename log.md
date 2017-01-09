@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 9, Monday
+
+**Today's Goal** : Using marked parse markdown and create html file
+
+**Today's Progress**: using the marked npm, sucessfully parsed the .md file into HTML and created the .html file
+
+**Thoughts**: Marked NPM is very easy and simple to use.
+
 ### Day 5: January 7, Saturday
 
 **Today's Goal** : Due to other commitments on the weekend I have decided to use it to go through and tidy/amend this weeks work.
