@@ -1,5 +1,5 @@
 import Data.Char  
-  
+
 main = do  
     putStrLn "What's your first name?"  
     firstName <- getLine  

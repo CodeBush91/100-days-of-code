@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 11, Wednesday
+
+**Today's Goal** : Creating a polymer app using polymer elements and not creating custom.
+
+**Today's Progress**: Creating a polymer app showcasing some the polymer elements
+
+**Thoughts**: Polymer & web components are the future and great things will happen
+
+
+### Day 7: January 10, Tuesday
+
+**Today's Goal** : Start styling koa application
+
+**Today's Progress**: Using pug.js add css and create the template of the web page to add some style to the proof of concept
+
+**Thoughts**: Interesting pug.js will take the external css and place within style tags... not sure how i feel about that.
+
+
 ### Day 6: January 9, Monday
 
 **Today's Goal** : Using marked parse markdown and create html file
@@ -8,6 +26,7 @@
 
 **Thoughts**: Marked NPM is very easy and simple to use.
 
+
 ### Day 5: January 7, Saturday
 
 **Today's Goal** : Due to other commitments on the weekend I have decided to use it to go through and tidy/amend this weeks work.
@@ -15,6 +34,7 @@
 **Today's Progress**: Redesigning the Day 1 Jeykll blog, implementing a nice and material design look.
 
 **Thoughts**: Some nice css changes using MDL
+
 
 ### Day 4: January 6, Friday
 
