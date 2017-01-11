@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: January 12, Thursday
+
+**Today's Goal** : Creating API documentation using Slate.
+
+**Today's Progress**: Bit of cheating, did some slate reasearch at work and have adapted to a chocolate theme, see the day 9 folder, static result can be seen in the build folder.
+
+**Thoughts**: Slate is really nice, also the postman pro stuff deserves a thumbs up.
+
+
 ### Day 8: January 11, Wednesday
 
 **Today's Goal** : Creating a polymer app using polymer elements and not creating custom.
