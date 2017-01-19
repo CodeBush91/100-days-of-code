@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 19, Thursday
+
+**Today's Goal** : Service Workers (Get to know them session)
+
+**Today's Progress**: Taking a look at SW's with and without polymer, some really cool stuff and two examples found in the day 12 folder.
+
+**Thoughts**: Service Workers are cool, also read someting about a polyfill for non supported browsers! that must of been a lie.
+
+
+### Day 11: January 14, Saturday
+
+**Today's Goal** : Create pug.js mixins
+
+**Today's Progress**: Pug.js allows mixins, which is cool and nice to componetize and create "Custom Elements"
+
+**Thoughts**: Makes templating even easier !!!
+
+
+### Day 10: January 13, Friday
+
+**Today's Goal** : Using handlebars.js inside node
+
+**Today's Progress**: Experimenting using handlebars in a node applicaton
+
+**Thoughts**: Yep it works.
+
 
 ### Day 9: January 12, Thursday
 

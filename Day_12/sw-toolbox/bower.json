@@ -1,0 +1,8 @@
+{
+  "name": "sw-toolbox",
+  "private": true,
+  "dependencies": {
+    "polymer": "polymer/polymer",
+    "sw-toolbox": "^3.4.0"
+  }
+}
